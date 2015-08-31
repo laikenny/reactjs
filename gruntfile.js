@@ -22,7 +22,7 @@ module.exports = function(grunt) {
 		watch: {
 			all: {
 				//files: ['**/*.html', '*.*', '**/*.*'],
-				files: ['*.*'],
+				files: ['*.html', '*.js', '*.css', 'build/*.*'],
 				options: { 
 					livereload: true 
 				}

@@ -1,4 +1,4 @@
 React.render(
-  <h1>Hello, world!</h1>,
+  <h1>Hello, world! Glad they used a comma!!!</h1>,
   document.getElementById('example')
 );
